@@ -1,0 +1,3 @@
+<!-- insert_bottom '[data-hook="admin_product_tabs"]' -->
+
+<%= render partial: 'spree/admin/products/related_products', locals: { current: current } %>
